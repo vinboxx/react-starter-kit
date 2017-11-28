@@ -1,6 +1,6 @@
 # react-starter-kit
 
-## Installtion
+## Installation
 ```
 npm install
 ```
